@@ -1,0 +1,23 @@
+body{
+    background-image: url("immagini/emporio albania.png");
+
+}
+h1{
+    font-size:1cm;
+    color:whitesmoke;
+
+}
+h2{
+    color: black;
+}
+.albania{
+    
+    height:100px;
+    width:100px;
+}
+.img{
+
+    height: 450px;
+    width: 450px;
+
+}
